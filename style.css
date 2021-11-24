@@ -1,0 +1,46 @@
+.maniDiv {
+  width: 340px;
+  height: 350px;
+  margin: 0 auto;
+  margin-top: 100px;
+  position: relative;
+  background: darkgoldenrod;
+}
+
+.header {
+  width: 100%;
+}
+
+.header input {
+  width: 97%;
+  padding: 6px 4px;
+  font-size: 40px;
+  font-family: monospace;
+  text-align: right;
+  background: ghostwhite;
+}
+
+button {width: 75px;
+  height: 50px;
+  font-size: 20px;
+  font-family: cursive;
+  font-weight: 600;
+  border: none;
+  border-radius: 20px;
+  margin: 2px 3px;
+}
+button:hover{
+  opacity: .8;
+  cursor: pointer;
+}
+.left {
+  width: 74%;
+  float: left;
+}
+
+.right {
+  width: 24%;
+  float: right;
+}
+.none{display: none;}
+.color{background: #404884;}
